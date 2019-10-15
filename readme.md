@@ -20,8 +20,6 @@ Projet : Mini jeu - il veulent tous ta POO
 
 Enjoy !!
 
-\O/
-
- | 
-
+\O/ \n
+ | \n
 / \
