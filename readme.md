@@ -7,6 +7,7 @@ Projet : Mini jeu - il veulent tous ta POO
 - Clone du repository :  
 
 > git clone https://github.com/140ch204/11_poo2.git
+
 > cd 11_poo2
 
 - Lancement du Jeu N°1
