@@ -33,9 +33,18 @@ end
 
 def acceuil()
   # Affichage graphique de début de partie
+  puts
+  puts "       ____   ____ _______ ______   __  "
+  puts "      |  _ \\ / __ \\__   __/ __ \\ \\ / /  "
+  puts "      | |_) | |  | | | | | |  | \\ V /   "
+  puts "      |  _ <| |  | | | | | |  | |> <    "
+  puts "      | |_) | |__| | | | | |__| / . \\   "
+  puts "      |____/ \\____/  |_|  \\____/_/ \\_\\  "
+  puts
   puts "-------------------------------------------------"
-  puts "|Bienvenue sur 'ILS VEULENT TOUS MA POO         |"
+  puts "|Bienvenue sur 'ILS VEULENT TOUS MA POO V3      |"
   puts "|Le but du jeu est d'être le dernier survivant !|"
+  puts "|Codé avec <3 par Julien Besombes le 15/10/2019 |"
   puts "-------------------------------------------------"
 
 end

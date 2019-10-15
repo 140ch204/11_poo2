@@ -16,10 +16,6 @@ Projet : Mini jeu - il veulent tous ta POO
 >ruby app_2.rb
 
 - Lancement du Jeu N°2
->ruby app_3.rb
+> ruby app_3.rb
 
 Enjoy !!
-
-\O/ \n
- | \n
-/ \
